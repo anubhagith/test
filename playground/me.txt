@@ -1,5 +1,1 @@
-{{#user}}
-Name: Anubhav Gupta
-Skills: HTML, CSS, JS.
-Email: anubhavgupta610@gmail.com
-{{/user}}
+
